@@ -20,7 +20,7 @@ const expertAdvisors = [
         ],
 
         screenshots: [
-            "images/ea1/report.png",
+            "images/ea1/report.png"
         ]
     },
 
@@ -46,7 +46,7 @@ const expertAdvisors = [
         ],
 
         screenshots: [
-            "images/ea2/report.png",
+            "images/ea2/report.png"
         ]
     },
 
@@ -71,7 +71,7 @@ const expertAdvisors = [
         ],
 
         screenshots: [
-            "images/ea3/report.png",
+            "images/ea3/report.png"
         ]
     },
 
@@ -96,7 +96,7 @@ const expertAdvisors = [
         ],
 
         screenshots: [
-            "images/ea4/report.png",
+            "images/ea4/report.png"
         ]
     },
 
@@ -121,7 +121,7 @@ const expertAdvisors = [
         ],
 
         screenshots: [
-            "images/ea5/report.png",
+            "images/ea5/report.png"
         ]
     },
 
@@ -146,7 +146,7 @@ const expertAdvisors = [
         ],
 
         screenshots: [
-            "images/ea6/report.png",
+            "images/ea6/report.png"
         ]
     },
 
@@ -171,7 +171,7 @@ const expertAdvisors = [
         ],
 
         screenshots: [
-            "images/ea7/report.png",
+            "images/ea7/report.png"
         ]
     },
 
@@ -196,7 +196,7 @@ const expertAdvisors = [
         ],
 
         screenshots: [
-            "images/ea8/report.png",
+            "images/ea8/report.png"
         ]
     },
 
@@ -221,7 +221,7 @@ const expertAdvisors = [
         ],
 
         screenshots: [
-            "images/ea9/report.png",
+            "images/ea9/report.png"
         ]
     },
 
@@ -246,6 +246,8 @@ const expertAdvisors = [
         ],
 
         screenshots: [
-            "images/ea10/report.png",
+            "images/ea10/report.png"
         ]
-    };
+    }
+
+    ];
