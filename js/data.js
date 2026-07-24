@@ -5,7 +5,7 @@ const expertAdvisors = [
 
         name: "GOLD SCALPER EA",
 
-        price: "$49",
+        price: "$499",
 
         cover: "images/ea1/cover.png",
 
@@ -31,7 +31,7 @@ const expertAdvisors = [
 
         name: "GOLD HUNTER EA",
 
-        price: "$99",
+        price: "$399",
 
         cover: "images/ea2/cover.png",
 
@@ -56,7 +56,7 @@ const expertAdvisors = [
 
         name: "GOLD TITAN EA",
 
-        price: "$149",
+        price: "$299",
 
         cover: "images/ea3/cover.png",
 
