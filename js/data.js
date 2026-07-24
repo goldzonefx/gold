@@ -248,4 +248,4 @@ const expertAdvisors = [
         screenshots: [
             "images/ea10/report.png",
         ]
-    },
+    };
